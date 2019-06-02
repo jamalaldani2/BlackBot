@@ -7,7 +7,7 @@ Moderator bot , Music bot , General Bot , Games Bot , etc**
 **All the codes from the Arabic version**
 Invite the bot now ! : [https://discordapp.com/oauth2/authorize?client_id=573008938069524481&permissions=8&scope=bot]
 
------------------------------------
+------------------------------------
 
 # Warning:
 **Note: 
